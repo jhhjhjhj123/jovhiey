@@ -345,6 +345,11 @@ module.exports = {
                 },
                 {
                     type: 'doc',
+                    id: 'guides/orms/doctrine',
+                    label: 'Doctrine'
+                },
+                {
+                    type: 'doc',
                     id: 'guides/frameworks/sqlc-declarative',
                     label: 'sqlc (declarative)'
                 },
